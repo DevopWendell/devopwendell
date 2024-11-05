@@ -1,7 +1,7 @@
 ## Oi, sou Wendell Eduardo
 
 - 🔭 Hoje sou auxiliar de infraestrutura em redes.
-- 🌱 Aspirante a SRE/Devops
+- 🌱 Aspirante a SRE/DEVOPS.o
 
 <div style="display: inline_block"><br>
   <img align="center" alt="DELL-Ansible" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" />
