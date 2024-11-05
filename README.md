@@ -1,6 +1,6 @@
 ## Oi, sou Wendell Eduardo
 
-- 🔭 Hoje sou auxiliar de insfrastrutura em redes.
+- 🔭 Hoje sou auxiliar de infraestrutura em redes.
 - 🌱 Aspirante a SRE/Devops
 
 <div style="display: inline_block"><br>
